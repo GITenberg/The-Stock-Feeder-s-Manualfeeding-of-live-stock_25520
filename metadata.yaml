@@ -1,0 +1,28 @@
+_repo: The-Stock-Feeder-s-Manualfeeding-of-live-stock_25520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cameron, Charles Alexander, Sir
+    birthdate: 1830
+    deathdate: 1921
+    gutenberg_agent_id: '31388'
+    url: http://www.gutenberg.org/2009/agents/31388
+description: ''
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Livestock'
+- !lcc 'SF'
+- !lcsh 'Feeds'
+title: "The Stock-Feeder's Manual\r\nthe chemistry of food in relation to the breeding\
+  \ and feeding of live stock"
+url: http://www.gutenberg.org/ebooks/25520
