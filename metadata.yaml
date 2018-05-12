@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31388'
     url: http://www.gutenberg.org/2009/agents/31388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25520#The-Stock-Feeder-s-Manualfeeding-of-live-stock
 gutenberg_issued: '2008-05-19'
 gutenberg_type: Text
 identifiers:
